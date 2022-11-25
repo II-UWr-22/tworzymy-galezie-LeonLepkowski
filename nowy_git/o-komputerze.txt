@@ -1,0 +1,49 @@
+Linux lab107-20.stud.ii 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:27:15 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        7906176 kB
+MemFree:         3977000 kB
+MemAvailable:    5669980 kB
+Buffers:          338624 kB
+Cached:          1590272 kB
+SwapCached:            0 kB
+Active:          2479644 kB
+Inactive:         906372 kB
+Active(anon):    1458472 kB
+Inactive(anon):   159740 kB
+Active(file):    1021172 kB
+Inactive(file):   746632 kB
+Unevictable:          64 kB
+Mlocked:              64 kB
+SwapTotal:       8388604 kB
+SwapFree:        8388604 kB
+Dirty:                40 kB
+Writeback:           100 kB
+AnonPages:       1457192 kB
+Mapped:           493428 kB
+Shmem:            161088 kB
+Slab:             286304 kB
+SReclaimable:     230456 kB
+SUnreclaim:        55848 kB
+KernelStack:       13904 kB
+PageTables:        51604 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    12341692 kB
+Committed_AS:    9149892 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      241756 kB
+DirectMap2M:     6840320 kB
+DirectMap1G:     2097152 kB
